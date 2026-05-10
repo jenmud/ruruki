@@ -1,3 +1,4 @@
+[![GitLab](https://img.shields.io/badge/Hosted%20on-GitLab-orange?logo=gitlab)](https://gitlab.com/jenmud/ruruki)
 [![Documentation Status](https://readthedocs.org/projects/ruruki/badge/?version=master)](http://ruruki.readthedocs.org/en/master/?badge=master)
 [![Build Status](https://travis-ci.org/optiver/ruruki.svg?branch=master)](https://travis-ci.org/optiver/ruruki)
 [![Code Climate](https://codeclimate.com/github/optiver/ruruki/badges/gpa.svg)](https://codeclimate.com/github/optiver/ruruki)
